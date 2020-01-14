@@ -4,7 +4,7 @@ A list of some of the best Visual Studio Code plugins I've come across.
 ## Plugins
 
 - Auto Close Tag
-- Bracket Paid Colorizer
+- Bracket Pair Colorizer
 - Colbalt2 Theme Official
 - ESLint
 - Git History
