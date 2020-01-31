@@ -11,11 +11,12 @@ A list of some of the best Visual Studio Code plugins I've come across.
 - Git Lens
 - Highlight Matching Tag
 - Highlight Trailing White Spaces
+- Import Cost
 - IntelliSense for CSS class names in HTML
 - jshint
+- Live Server
 - Path Intellisense
 - Peacock
-- Sass
-- Live Server
 - Prettier
 - Turbo Console Log
+- Sass
