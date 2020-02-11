@@ -20,3 +20,4 @@ A list of some of the best Visual Studio Code plugins I've come across.
 - Prettier
 - Turbo Console Log
 - Sass
+- Simple React Snippets
