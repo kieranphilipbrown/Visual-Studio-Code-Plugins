@@ -22,3 +22,4 @@ A list of some of the best Visual Studio Code plugins I've come across.
 - Turbo Console Log
 - Sass
 - Simple React Snippets
+- vscode-styled-components
