@@ -18,6 +18,7 @@ A list of some of the best Visual Studio Code plugins I've come across.
 - Path Intellisense
 - Peacock
 - Prettier
+- Reactjs code snippets
 - Turbo Console Log
 - Sass
 - Simple React Snippets
